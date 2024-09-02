@@ -16,5 +16,3 @@ Partiels à chaque fin de semestre
 ---
 
 __Escape Game__ : Jeudi à 10h30
-
-Test (non)

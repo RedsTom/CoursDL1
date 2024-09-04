@@ -1,0 +1,2 @@
+- Administratif : [[Administratif/Index|Index]]
+- Mathématiques générales [[Maths/Générales/Index|Index]]

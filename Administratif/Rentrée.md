@@ -68,7 +68,7 @@ Options détermine la L2 (j'imagine pas pour nous du coup :D)
 - UE : Une UE est validée par *capitalisation* si la moyenne est supérieure à 10/20
 - BCC : validation par *compensation* (et donc de toutes les UE qu'ils contiennent) si moyenne des UE d'un même BCC sur l'année est supérieure à 10/20
 - Les crédits ECTS acquis le sont définitivement
-- Validation de l'année : au moins 2 BCC validés et le BCC restants avec une moyenne supérieure à 9/20
+- Validation de l'année : au moins 2 BCC validés et les BCC restants avec une moyenne supérieure à 9/20
 
 **Seconde session :**
 - Les UE non validées (par capitalisation ou compensation) doivent être repassées en 2nde session (mi-juin)
@@ -76,4 +76,10 @@ Options détermine la L2 (j'imagine pas pour nous du coup :D)
 - Une absence à l'examen d'au moins une UE implique un statut défaillant à l'année et un redoublement (si autorisé)
 
 **⚠️ Test de positionnement à faire sur Ametice avant le 13 septembre !**
+
+## Infos spécifiques DL Maths/Info :
+Maths info :
+- Possibilité de rejoindre fin S1 (j'y suis déjà ptdrr)
+- Renforcement en maths in info via plus de cours, et des kholles supplémentaires 
+- Poursuite en L2/L3 DL Maths/Info permettant de valider les deux licenses
 

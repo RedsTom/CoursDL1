@@ -73,8 +73,9 @@ Options détermine la L2 (j'imagine pas pour nous du coup :D)
 - Les crédits ECTS acquis le sont définitivement
 - Validation de l'année : au moins 2 BCC validés et le BCC restants avec une moyenne supérieure à 9/20
 
-Seconde session :
+**Seconde session :**
 - Les UE non validées (par capitalisation ou compensation) doivent être repassées en 2nde session (mi-juin)
 - Les notes de session 1 ne sont pas conservées : aucun maximum entre les notes de session 1 et session 2 n'est appliqué !
 - Une absence à l'examen d'au moins une UE implique un statut défaillant à l'année et un redoublement (si autorisé)
 
+**⚠️ Test de positionnement à faire sur Ametice avant le 13 septembre !**

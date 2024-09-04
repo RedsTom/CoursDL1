@@ -2,4 +2,3 @@
 	- [[00_01 - Introduction]]
 - Chapitre 1 - Les ensembles de nombres
 	- [[01_01 Nombres entiers]]
-	- 

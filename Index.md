@@ -1,2 +1,0 @@
-- [[Administratif/Index|Index]]
-- [[Maths/Générales/Index|Index]]

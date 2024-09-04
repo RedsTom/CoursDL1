@@ -83,3 +83,30 @@ Maths info :
 - Renforcement en maths in info via plus de cours, et des kholles supplémentaires 
 - Poursuite en L2/L3 DL Maths/Info permettant de valider les deux licenses
 
+**Responsable DL M/I :** David Kohel
+⚠️ Inscription pédagogique à faire à chaque semestre (maybe automatique)
+
+Une année en license normal = 60 ECTS
+=> Une année en double license = 72 ou 78 ECTS
+
+Une license classique = 180 ECTS
+=> Une double license = 228 ECTS (72 ECTS en L1, 78 en L2 et L3)
+
+**Epreuve intégrative = Khôlle**
+
+**Modalités de contrôle des connaissances :**
+- Une UE est validée si vous obtenez au moins 10/20
+- Une UE peut être validée par compensation au sein d'un BCC
+- Toute UE non validée en 1e session doit être repassée en 2e session
+- Une UE défaillante => année défaillante
+
+**Les BCC en DL sont :**
+- Maitriser les outils nécessaires à sa spécialité
+- Définir et valoriser son parcours en sciences
+- Appréhender le monde réel par le formalisme scientifique
+- Découvrir les interactions mathématiques-informatiques *(Spécifique à la DL)*
+Pour la suite (L2/L3) :
+- Maitriser les concepts fondamentaux des mathématiques
+- Mettre en oeuvre des algorithmes
+- Valoriser et approfondir son parcours
+

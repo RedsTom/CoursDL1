@@ -20,9 +20,21 @@ $a, b \in \mathbb{Z}, a-b=a+(-b)$ où $-b$ est l'opposé de $b$
 > $b'+(b+b')=b'+(b+b'') \iff (b'+b)+b' = (b'+b)+b'' \iff 0+b'=0+b''$  
 > Donc $b'=b''$ $\blacksquare$   
 
-=> L'addition des naturels et des relatifs est :
+=> L'**addition** des naturels et des relatifs est :
 - **Commutative** : $a+b=b+a$
 - **Associative** : $(a+b)+c=a+(b+c) = a+b+c$
-- $0$ est le neutre de $+$ : $a+0=0+a=a$
+- $0$ est **le neutre** de $+$ : $a+0=0+a=a$
 - Tout relatif $b$ admet un unique opposé $-b$ tq $b+(-b)=-b+b=0$
-- 
+- On définit la soustraction des relatifs : $a-b=a+(-b$
+
+## 1.1.3 Multiplication et division
+
+=> La **multiplication** des naturels et de relatifs est :
+- **Commutative** : $ab=ba$
+- **Associative** : $(ab)c=a(bc)=abc$
+- $1$ est **élément neutre** : $a\times1=1\times a=a$
+-  0 est **absorbant** : $0 \times a = a \times 0 = 0$
+- #remarque  Les seuls entiers relatifs inversibles sont $1$ et $-1$.
+
+#remarque La multiplication est distributive sur l'addition :
+$$a(b+c) =ab+ac$$

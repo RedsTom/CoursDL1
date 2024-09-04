@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index général.md",
+                "file": "Administratif/Rentrée.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Index général.md",
+            "file": "Administratif/Rentrée.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Index général.md",
+            "file": "Administratif/Rentrée.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Index général.md"
+            "file": "Administratif/Rentrée.md"
           }
         }
       },
@@ -141,13 +141,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bf1e6c7f51bb769",
+  "active": "87d86832f26e414f",
   "lastOpenFiles": [
-    "Maths/Générales/Index.md",
     "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
+    "Maths/Générales/Index.md",
+    "Index général.md",
     "Administratif/Index.md",
     "Administratif/Rentrée.md",
-    "Index général.md",
     "Maths/Générales/00 - Extra/00_01 - Introduction.md",
     "00.md",
     "Maths/Générales/00 - Extra",

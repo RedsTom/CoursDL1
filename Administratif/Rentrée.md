@@ -15,7 +15,7 @@ Partiels à chaque fin de semestre
 => Infos sur https://sciences.univ-amu.fr/fr/votre-scolarité/
 
 ---
-
+Activité d'intégration :
 __Escape Game__ : Jeudi à 10h30
 
 ---
@@ -51,10 +51,8 @@ Plus généralement, responsable du portail à Luminy
 
 *1 ECTS ~= 10h de cours*
 
----
 => Commencer à travailler dès le début d'année
 
----
 **Au semestre 2 :**
 - BCC 1 :
 	- Projet personnel et professionnel de l'étudiant (3 ECTS)
@@ -67,7 +65,6 @@ Plus généralement, responsable du portail à Luminy
 
 Options détermine la L2 (j'imagine pas pour nous du coup :D)
 
----
 - UE : Une UE est validée par *capitalisation* si la moyenne est supérieure à 10/20
 - BCC : validation par *compensation* (et donc de toutes les UE qu'ils contiennent) si moyenne des UE d'un même BCC sur l'année est supérieure à 10/20
 - Les crédits ECTS acquis le sont définitivement
@@ -79,3 +76,4 @@ Options détermine la L2 (j'imagine pas pour nous du coup :D)
 - Une absence à l'examen d'au moins une UE implique un statut défaillant à l'année et un redoublement (si autorisé)
 
 **⚠️ Test de positionnement à faire sur Ametice avant le 13 septembre !**
+

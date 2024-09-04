@@ -1,5 +1,5 @@
-- 00 - Extra
+- Chapitre 0 - Extra
 	- [[00_01 - Introduction]]
-- 01 - Les ensembles de nombres
+- Chapitre 1 - Les ensembles de nombres
 	- [[01_01 Nombres entiers]]
 	- 

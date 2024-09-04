@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administratif/Rentrée.md",
+                "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "531c5ac5e8828754",
@@ -85,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Administratif/Rentrée.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Administratif/Rentrée.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Administratif/Rentrée.md"
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md"
           }
         }
       },
@@ -141,5 +142,14 @@
     }
   },
   "active": "5bf1e6c7f51bb769",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Maths/Générales/Index.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
+    "00.md",
+    "Maths/Générales/00 - Extra/00_01 - Introduction.md",
+    "Maths/Générales/00 - Extra",
+    "Maths/Générales/01 - Les ensembles de nombres",
+    "Administratif/Rentrée.md",
+    "Maths/Générales"
+  ]
 }

@@ -1,2 +1,3 @@
 - Administratif : [[Administratif/Index|Index]]
 - Mathématiques générales [[Maths/Générales/Index|Index]]
+- Introduction aux sciences informatiques [[Informatique/Intro/Index|Index]]

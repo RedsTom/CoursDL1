@@ -1,4 +1,4 @@
 - Chapitre 0 - Extra
-	- [[00_01 - Introduction]]
+	- [[Maths/Générales/00 - Extra/00_01 - Introduction|00_01 - Introduction]]
 - Chapitre 1 - Les ensembles de nombres
 	- [[01_01 Nombres entiers]]

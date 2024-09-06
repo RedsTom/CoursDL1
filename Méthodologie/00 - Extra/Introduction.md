@@ -1,6 +1,6 @@
 ## Apprendre à apprendre
 Prof : chercheure en neurosciences
-**Valérie Paban** <valérie.paban@univ-amu.fr>
+**Véronique Paban** <véronique.paban@univ-amu.fr>
 
 => Avoir le questionnaire profil pour la semaine prochaine
 **UE en contrôle continu intégral**
@@ -24,4 +24,3 @@ Note **session 2** :
 - Développer des méthodes de travail efficaces
 
 => Issu des : neurosciences, psychologie cognitive et cognition sociale
-

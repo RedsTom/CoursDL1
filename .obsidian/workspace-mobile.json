@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthodologie/00 - Extra/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa03420a0f452535",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,11 +140,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa03420a0f452535",
+  "active": "5bf1e6c7f51bb769",
   "lastOpenFiles": [
+    "Méthodologie/Index.md",
     "Méthodologie/00 - Extra/Introduction.md",
     "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
-    "Méthodologie/Index.md",
     "Méthodologie/00 - Extra",
     "Méthodologie/01 - Mémoire et apprentissage",
     "Index général.md",

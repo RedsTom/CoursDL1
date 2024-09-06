@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatique/Intro/01 - unknown/05-09-2024.md",
+                "file": "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Intro/01 - unknown/05-09-2024.md",
+                "file": "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Intro/01 - unknown/05-09-2024.md",
+                "file": "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/Intro/01 - unknown/05-09-2024.md"
+                "file": "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md"
               }
             }
           },
@@ -155,14 +155,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df0c5fd4fcb22144",
+  "active": "27f3aa0fdee90fdb",
   "lastOpenFiles": [
-    "Maths/Générales/00 - Extra/00_01 - Introduction.md",
-    "Index général.md",
+    "2024-09-06.md",
+    "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
     "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
+    "Administratif/Index.md",
+    "Index général.md",
+    "Informatique/Intro/01 - unknown/05-09-2024.md",
+    "Maths/Générales/00 - Extra/00_01 - Introduction.md",
     "Sans titre.canvas",
     "Administratif/Rentrée.md",
-    "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
     "Méthodologie/00 - Extra/Introduction.md",
     "Méthodologie/01 - Mémoire et apprentissage",
     "Méthodologie/Index.md",
@@ -173,12 +176,10 @@
     "Maths/Générales/00 - Extra",
     "Maths/Générales",
     "Maths",
-    "Informatique/Intro/01 - unknown/05-09-2024.md",
     "Informatique/Intro/00 - Extra/00_01 - Introduction.md",
     "Informatique/Intro/Index.md",
     "Informatique/Intro/01 - unknown",
     "Informatique/Intro/00 - Extra",
-    "Informatique/Intro",
-    "Administratif/Index.md"
+    "Informatique/Intro"
   ]
 }

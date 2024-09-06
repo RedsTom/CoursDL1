@@ -43,9 +43,11 @@ $$a(b+c) =ab+ac$$
 #remarque $0|0$
 
 ## 1.1.4 Les puissances
-Pour $n \in \mathbb{N}$, on a : $$\{
+Pour $n \in \mathbb{N}$, on a : $$
+\left\{
 \begin{aligned}
-&x^0 = 1 \\
-&x^{n+1} = x\times x^n
-\end{aligned}$$
-
+x^0 &= 1 \\
+x^{n+1} &= x\times x^n
+\end{aligned}
+\right.
+$$

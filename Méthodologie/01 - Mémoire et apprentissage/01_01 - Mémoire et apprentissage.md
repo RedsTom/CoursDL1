@@ -134,3 +134,7 @@ Apprentissage =
 - Renforcement de connexions existantes
 
 L'apprentissage prends toutes les informations et en crée un engramme : une trace mnésique (marquage d'un réseau neuronal). Quand une situation similaire se crée, les informations reviennent en mémoire
+
+Sauf que l'information se perd avec le temps, pour l'éviter, on peut :
+- multiplier les sources d'informations : internet / notes / travail en groupe / livres
+- faire des auto-tests, se rappeler ses cours, tester sa mémoire : renforcer sa trace

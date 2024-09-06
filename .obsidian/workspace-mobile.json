@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
+                "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md"
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md"
           }
         }
       },
@@ -140,10 +140,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bf1e6c7f51bb769",
+  "active": "87d86832f26e414f",
   "lastOpenFiles": [
-    "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
     "Méthodologie/Index.md",
+    "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
     "Méthodologie/00 - Extra/Introduction.md",
     "Méthodologie/00 - Extra",
     "Méthodologie/01 - Mémoire et apprentissage",

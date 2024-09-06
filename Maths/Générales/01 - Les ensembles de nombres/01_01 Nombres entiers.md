@@ -48,3 +48,4 @@ Pour $n \in \mathbb{N}$, on a : $$\{
 &x^0 = 1 \\
 &x^{n+1} = x\times x^n
 \end{aligned}$$
+

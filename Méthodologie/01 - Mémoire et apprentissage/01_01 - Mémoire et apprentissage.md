@@ -42,11 +42,11 @@ Avec toutes ces infos, comment faire pour optimiser sa mémoire car mémoire imm
 # Comprendre comment fonctionne notre mémoire pour mieux l'utiliser :
 
 ```mermaid
-flowchart LR
+flowchart TD
 	senso["Mémoires sensorielles"]
 	ct["Mémoire à court terme"]
 	lt["Mémoire à long terme"]
-	senso --> ct --> lt
+	senso --Attention--> ct --Apprentissage--> lt
 ```
 ## Mémoires à court terme :
 ### La mémoire immédiate :
@@ -94,3 +94,43 @@ Elle se décompose en sous-catégories :
 	- Relève des procédures
 	- Mémoire de nos automatismes, de nos habitudes
 	- Ex: Savoir faire du vélo
+
+=> Il y a dans cette mémoire une composante **automatique** (intuitif) et une composante **contrôlée** (raisonné)
+=> Distinction entre **disponibilité** et **accessibilité** en mémoire à long terme : deux informations peuvent être disponibles en mémoire mais avec des degrés d'accessibilité différents
+	**Exemple :**
+	- Ce qu'on a mangé il y a trois jours (disponible, pas accessible)
+	- Notre date de naissance (disponible, accessible
+	Différence entre les deux : engramme (fragile // solide)
+
+=> Elle de façon **associative** : plus on va créer d'associations, meilleur on sera, mais ces associations se créent toutes seules
+	Pour bien apprendre, on commence par des choses faciles, et on construit là dessus
+	Ce réseau associatif dépend de chacun
+
+
+## Comment passer d'une mémoire à une autre
+=> Systèmes de traitement de l'information 
+=> Pour passer des mémoires sensorielles à la mémoire à court terme, on utilise l'**attention** 
+
+3 systèmes **attentionnels** :
+- L'**alerte** attentionnelles (vigilance) : __QUAND__ faire attention
+- L'**orientation** attentionnelles : **A QUOI** faire attention
+	Pour améliorer sa mémoire :
+		- Eviter les distractions
+		- On ne peut pas faire plusieurs choses en même temps : on n'est pas multi-tâche
+- Le **contrôle exécutif** : **COMMENT** faire attention
+
+=> Pour passer de la mémoire à court terme à la mémoire à long terme, j'**apprends**
+Cerveau : 100 milliards de neurones connectés entre eux, 1 neuro ne = 10 000 connexion
+
+> Quand on apprend, la structure du cerveau change.
+> Des neurones se créent ou s'allongent pour se connecter à d'autres neurones
+ Masson, 2017
+
+=> **Plasticité cérébrale = neuroplasticité**
+L'**apprentissage** repose sur cette neuroplasticité !
+
+Apprentissage =
+- Création de nouvelles connexions
+- Renforcement de connexions existantes
+
+L'apprentissage prends toutes les informations et en crée un engramme : une trace mnésique (marquage d'un réseau neuronal). Quand une situation similaire se crée, les informations reviennent en mémoire

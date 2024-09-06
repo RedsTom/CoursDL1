@@ -11,12 +11,8 @@
             "id": "87d86832f26e414f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md"
-          }
+          "state": {}
         }
       },
       {
@@ -142,16 +134,18 @@
   },
   "active": "87d86832f26e414f",
   "lastOpenFiles": [
+    "2024-09-06.md",
+    "Index général.md",
+    "Sans titre.canvas",
+    "Informatique/Intro/Index.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
     "Méthodologie/Index.md",
     "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
     "Méthodologie/00 - Extra/Introduction.md",
     "Méthodologie/00 - Extra",
     "Méthodologie/01 - Mémoire et apprentissage",
-    "Index général.md",
-    "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
     "Méthodologie",
     "Informatique/Intro/01 - unknown/05-09-2024.md",
-    "Informatique/Intro/Index.md",
     "Informatique/Intro/01 - unknown",
     "Informatique/Intro/00 - Extra/00_01 - Introduction.md",
     "Maths/Générales/Index.md",

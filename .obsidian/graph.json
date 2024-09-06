@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "Path:Informatique  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
       "query": "Path:Méthodologie  ",
       "color": {
         "a": 1,
@@ -34,12 +27,19 @@
         "a": 1,
         "rgb": 16731469
       }
+    },
+    {
+      "query": "Path:Informatique  ",
+      "color": {
+        "a": 1,
+        "rgb": 16758328
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.30076113197425,
+  "nodeSizeMultiplier": 2.64233503218884,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.715128755364807,

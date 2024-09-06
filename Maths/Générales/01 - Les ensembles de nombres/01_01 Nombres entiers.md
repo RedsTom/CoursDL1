@@ -38,3 +38,15 @@ $a, b \in \mathbb{Z}, a-b=a+(-b)$ où $-b$ est l'opposé de $b$
 
 #remarque La multiplication est distributive sur l'addition :
 $$a(b+c) =ab+ac$$
+
+#définition Soit $(a,b)\in \mathbb{Z}^2$, **a divise b** (noté $a|b$) $\iff \exists q \in \mathbb{Z}, b=aq$)
+#remarque $0|0$
+
+## 1.1.4 Les puissances
+Pour $n \in \mathbb{N}$, on a : $$
+\{
+\begin{aligned}
+&x^0 = 1 \\
+&x^{n+1} = x\times x^n
+\end{aligned}
+$$

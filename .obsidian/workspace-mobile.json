@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatique/Intro/01 - unknown/05-09-2024.md",
+                "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Informatique/Intro/01 - unknown/05-09-2024.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Informatique/Intro/01 - unknown/05-09-2024.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Informatique/Intro/01 - unknown/05-09-2024.md"
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md"
           }
         }
       },
@@ -141,10 +141,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bf1e6c7f51bb769",
+  "active": "87d86832f26e414f",
   "lastOpenFiles": [
-    "Informatique/Intro/Index.md",
     "Informatique/Intro/01 - unknown/05-09-2024.md",
+    "Informatique/Intro/Index.md",
     "Informatique/Intro/01 - unknown",
     "Informatique/Intro/00 - Extra/00_01 - Introduction.md",
     "Index général.md",

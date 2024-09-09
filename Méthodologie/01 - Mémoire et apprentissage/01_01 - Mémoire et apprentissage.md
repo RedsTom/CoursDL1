@@ -138,3 +138,27 @@ L'apprentissage prends toutes les informations et en crée un engramme : une tra
 Sauf que l'information se perd avec le temps, pour l'éviter, on peut :
 - multiplier les sources d'informations : internet / notes / travail en groupe / livres
 - faire des auto-tests, se rappeler ses cours, tester sa mémoire : renforcer sa trace
+
+Pour maintenir un engramme, il faut faire de **l'apprentissage en profondeur**.
+Mais qu'est-ce ?
+=> Il faut donner du sens à ce que l'on apprend :
+> **Expérience 5 :**
+> Liste de mots,
+> On demande à un groupe de savoir s'il y a une majuscule à un groupe et à un autre si c'est un animal
+> Le groupe Maj en retient 30%, l'autre 80%
+
+Sachant tout cela, comment optimiser notre mémoire ?
+
+
+# À quoi sert la prise de notes ?
+- l'empan mnésique = 7 +/- 2 items
+- empêche de parler avec les voisins
+- permet de ne pas dormir
+- != copier sur son voisin car chacun a sa façon de prendre des notes qui correspond à ses mécanismes cognitifs personnels
+	=> ne permet pas de réviser de manière optimale par la suite
+- la prise de note personnelle permet d('apprendre son cours et de le réviser
+
+## Méthodes pour être efficace :
+=> Renforcer les traces mnésiques de la séance précédente 
+On renforce à chaque fois qu'on essaye de se souvenir de ce q'on a fait la dernière fois
+$\hookrightarrow$ Dès qu'on attend, on essaye de se souvenir ce qu'on a fait 

@@ -11,11 +11,28 @@
             "id": "87d86832f26e414f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Générales/01 - Les ensembles de nombres/01_02 Nombres rationnels et fractions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64c9f6d7a44e191b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_03 Nombres réels et inégalités.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "01_03 Nombres réels et inégalités.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "01_03 Nombres réels et inégalités.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +126,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "01_03 Nombres réels et inégalités.md"
+          }
         }
       },
       {
@@ -132,23 +153,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87d86832f26e414f",
+  "active": "64c9f6d7a44e191b",
   "lastOpenFiles": [
+    "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
+    "01_03 Nombres réels et inégalités.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_02 Nombres rationnels et fractions.md",
+    "Maths/Générales/Index.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
+    "Informatique/Intro/01 - unknown/05-09-2024.md",
+    "/Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
+    "/Informatique/Intro/01 - unknown/05-09-2024.md",
     "2024-09-06.md",
     "Index général.md",
     "Sans titre.canvas",
     "Informatique/Intro/Index.md",
-    "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
     "Méthodologie/Index.md",
     "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
     "Méthodologie/00 - Extra/Introduction.md",
     "Méthodologie/00 - Extra",
     "Méthodologie/01 - Mémoire et apprentissage",
     "Méthodologie",
-    "Informatique/Intro/01 - unknown/05-09-2024.md",
     "Informatique/Intro/01 - unknown",
     "Informatique/Intro/00 - Extra/00_01 - Introduction.md",
-    "Maths/Générales/Index.md",
     "Administratif/Rentrée.md",
     "Informatique/Intro/00 - Extra",
     "Informatique/Intro",

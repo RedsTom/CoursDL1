@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "Path:Méthodologie  ",
+      "query": "file:Chapitre",
       "color": {
         "a": 1,
         "rgb": 11392604
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 16758328
       }
+    },
+    {
+      "query": "Path:Méthodologie  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8854674932955569,
+  "scale": 1.2414102821370439,
   "close": false
 }

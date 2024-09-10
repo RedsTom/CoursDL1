@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phénomènes ondulatoires/03 - Superposition des ondes/03_00 - Superposition des ondes.md",
+                "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Phénomènes ondulatoires/03 - Superposition des ondes/03_00 - Superposition des ondes.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Phénomènes ondulatoires/03 - Superposition des ondes/03_00 - Superposition des ondes.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Phénomènes ondulatoires/03 - Superposition des ondes/03_00 - Superposition des ondes.md"
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md"
           }
         }
       },
@@ -140,10 +140,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d99236fc7d6a5745",
+  "active": "5bf1e6c7f51bb769",
   "lastOpenFiles": [
-    "Phénomènes ondulatoires/Sans titre.md",
     "Phénomènes ondulatoires/03 - Superposition des ondes/03_00 - Superposition des ondes.md",
+    "Phénomènes ondulatoires/Sans titre.md",
     "Phénomènes ondulatoires/03 - Superposition des ondes",
     "Phénomènes ondulatoires/02 - Propagation et formalisme/02_00 - Propagation et formalisme.md",
     "Phénomènes ondulatoires/01 - Vibration dans le temps/01_00 - Vibration dans le temps.md",

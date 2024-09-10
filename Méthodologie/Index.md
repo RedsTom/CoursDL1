@@ -1,5 +1,5 @@
 - 00 - Extra
-	- [[Introduction]]
+	- [[Méthodologie/00 - Extra/00_01 - Introduction]]
 - 01 - Chapitre 1 : Mémoire et apprentissage
 	- ![[01_01 - Mémoire et apprentissage]]
 	- 02 - Motivation et méthodes d'apprentissage

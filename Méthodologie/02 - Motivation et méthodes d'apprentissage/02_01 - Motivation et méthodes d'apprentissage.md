@@ -45,3 +45,21 @@ Inverser question 15 :
 Apprentissage en profondeur : [2, 7, 15, 20, 22] 25
 Apprentissage de surface : [3, 8, 12, 18, 21] 19
 Apprentissage désorganisé : [5, 10, 13, 17, 24] 25
+
+Méthodes :
+- interrogation elaborative : Pourquoi ?
+- Auto-explication  : Comment ?
+ => TD : Résolution de problème | Fonctionne car permet de faire de l'apprentissage en profondeur
+ 
+ - Résumer avec ses propres mots
+ - Surlignage : au max 15% du document
+ - Mot-clés
+ - Imagerie = cartes mentales / palais de la mémoire
+ - Se relire
+ - Auto-tests
+ - Feuille blanche, s'imaginer les questions de l'exam, se projeter dans l'env° de l'exam, faire des exos autres que ceux déjà vus
+ - Apprentissage distribué : ne pas travailler par bloc d'une matière mais bosser toutes les matières petit à petit ; au bout d'une semaine distribué = groupé ; au bout d'un mois, distribué = 2 $\times$groupé
+	 => Diminue l'oubli
+
+PLANIFIER SES PLANS DE REVISION : et s'imposer des tranches temporelles car Plus on a de temps, plus on en prend
+Au delà d'un seuil de travail horaire, l'efficacité du temps passé décroît

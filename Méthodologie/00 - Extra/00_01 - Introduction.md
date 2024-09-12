@@ -1,6 +1,6 @@
 ## Apprendre à apprendre
 Prof : chercheure en neurosciences
-**Véronique Paban** <véronique.paban@univ-amu.fr>
+**Véronique Paban** <veronique.paban@univ-amu.fr>
 
 => Avoir le questionnaire profil pour la semaine prochaine
 **UE en contrôle continu intégral**

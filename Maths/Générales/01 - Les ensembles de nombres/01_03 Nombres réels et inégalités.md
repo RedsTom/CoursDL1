@@ -18,6 +18,11 @@
 $a \leq b \implies f(a) \leq f(b)$ si $f$ est une fonction croissante sur $[a;b]$
 $a \leq b \implies f(a) \geq f(b)$ si $f$ est décroissante sur $[a;b]$
 
+$a < b \implies f(a) < f(b)$ si $f$ est une fonction strictement croissante sur $[a;b]$
+$a > b \implies f(a) < f(b)$ si $f$ est strictement décroissante sur $[a;b]$
+
+> #remarque Vraie #définition de la croissance : Pour $I\subset\mathbb{R},\forall(x,y)\in I^2, x \leq y \implies f(x) \leq f(y)$
+
 ```functionplot
 ---
 title: Inverse
@@ -41,11 +46,25 @@ y(x)=1/x
 	Sinon $|x| = -x$, or $-x\geq0$ donc $|x|\geq0$
 	Comme $x$ est soit positif, soit négatif, alors $\forall x\in\mathbb{R},|x|\geq0$ 	
 	$\blacksquare$
-	
+	-
 #propriété ==/!\\ $|x| \leq M \iff -M \leq x \leq M$ /!\\== 
 	 #démonstration <span style="border: solid 1px black; border-radius: 99px; padding: 2px; aspect-ratio: 1/1;">=></span>
 	 Supposons $|x|\leq M$
 	 Comme $M \geq |x| \geq0$, on doit avoir $M\geq0$
-	 Si $x>0$, alors $|x|=x$ et $x \leq M$, et comme $x\geq0,x\geq-M$ 
-	 
-	  
+	 Si $x\geq0$, alors $|x|=x$ et $x \leq M$, et comme $x\geq0,x\geq-M$ 
+	 Sinon $x\leq0$ et $|x|=-x$, donc $-x \leq -M \iff x \leq -M$, et comme $x\leq0$ et $M\geq0$
+	 Dans tous les cas, on a bien $-M < x < M$
+	 > Note : l'équivalence est perdue avec le raisonnement par cas
+	 #démonstration <span style="border: solid 1px black; border-radius: 99px; padding: 2px; aspect-ratio: 1/1;">&lt=</span>
+	Supposons $-M \leq X \leq M$
+	
+
+#propriété $a,b,c,d\in\mathbb{R}_+, a\leq b\land c\leq d \implies ac\leq bd$ 
+	#démonstration 
+	En effet, soit $a, b, c, d\in\mathbb{R}_+$.
+	Supposons $a\leq b$ et $c\leq d$.
+	Comme $c\geq0$, de $a\leq b$ , on déduit $ac \leq bc$
+	Et comme $b \geq 0$, de $c \leq d$, on déduit $bc \leq bd$
+	Donc, par transitivité, on a : $ac \leq bc \leq bd \iff ac \leq bd$
+	$\blacksquare$
+	---

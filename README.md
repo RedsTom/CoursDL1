@@ -21,4 +21,5 @@ Comprendre deux fois plus de choses, tout en dormant deux fois moins. 😴
    - Sélectionne le dossier où ce projet est situé sur ton ordinateur.
    - Et voilà, tu es prêt(e) à plonger dans le chaos organisé de tes cours !
 
-### [Index des cours](./Index général.md)
+### Index des cours
+👉 [Index des cours](./Index général.md)

@@ -68,3 +68,9 @@ y(x)=1/x
 	Donc, par transitivité, on a : $ac \leq bc \leq bd \iff ac \leq bd$
 	$\blacksquare$
 	---
+
+#propriété s : 
+- $|xy|=|x|\cdot|y|$
+- $y\neq0\implies|\frac{x}{y}| = \frac{|x|}{|y|}$
+- $y\neq0\implies|\frac{1}{y}| = \frac{1}{|y|}$
+- $|x+y|=|x|+|y| \iff$ $x$ et $y$ sont de même signe

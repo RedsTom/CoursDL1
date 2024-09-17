@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index général.md",
+                "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "531c5ac5e8828754",
@@ -86,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Index général.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Index général.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Index général.md"
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md"
           }
         }
       },
@@ -143,8 +142,17 @@
   },
   "active": "87d86832f26e414f",
   "lastOpenFiles": [
+    "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
+    "Assets/IMG_20240912_154053.jpg",
+    "Assets",
+    "Assets/IMG_20240912_151917.jpg",
     "Force et statique/Index.md",
     "Force et statique/00 - Extra/00_01 - Introduction.md",
+    "Force et statique/01 - Notions préliminaires",
+    "Informatique/Intro/00 - Extra/00_01 - Introduction.md",
+    "Maths/Générales/00 - Extra/00_01 - Introduction.md",
+    "Index général.md",
     "Force et statique/00 - Extra",
     "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
     "Force et statique",
@@ -152,7 +160,6 @@
     "Méthodologie/00 - Extra/00_01 - Introduction.md",
     "Méthodologie/02 - Motivation et méthodes d'apprentissage/02_01 - Motivation et méthodes d'apprentissage.md",
     "Phénomènes ondulatoires/02 - Propagation et formalisme/02_00 - Propagation et formalisme.md",
-    "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
     "Informatique/Intro/01 - unknown/05-09-2024.md",
     "Phénomènes ondulatoires/03 - Superposition des ondes/03_00 - Superposition des ondes.md",
     "Phénomènes ondulatoires/Sans titre.md",
@@ -163,22 +170,15 @@
     "Phénomènes ondulatoires/00 - Extra/00_01 - Introduction.md",
     "Phénomènes ondulatoires/01 - Vibration dans le temps",
     "Phénomènes ondulatoires/Index.md",
-    "Index général.md",
     "Phénomènes ondulatoires/00 - Extra",
     "Phénomènes ondulatoires",
     "Méthodologie/Index.md",
     "Méthodologie/02 - Motivation et méthodes d'apprentissage/02_01 - Motivation et méthodes d'apprentissage",
-    "Méthodologie/02 - Motivation et méthodes d'apprentissage",
     "Maths/Générales/01 - Les ensembles de nombres/01_02 Nombres rationnels et fractions.md",
     "Maths/Générales/Index.md",
     "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
     "/Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
     "/Informatique/Intro/01 - unknown/05-09-2024.md",
-    "2024-09-06.md",
-    "Sans titre.canvas",
-    "Informatique/Intro/Index.md",
-    "Méthodologie/00 - Extra",
-    "Informatique/Intro/00 - Extra/00_01 - Introduction.md",
-    "Administratif/Rentrée.md"
+    "Sans titre.canvas"
   ]
 }

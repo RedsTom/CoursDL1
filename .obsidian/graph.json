@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:Index",
@@ -41,27 +41,6 @@
         "a": 1,
         "rgb": 6084269
       }
-    },
-    {
-      "query": "path:\"Phénomènes ondulatoires\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "path:\"Force et statique\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "path:Administratif  ",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
     }
   ],
   "collapse-display": false,
@@ -70,10 +49,10 @@
   "nodeSizeMultiplier": 2.64233503218884,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.53125,
+  "centerStrength": 0.715128755364807,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 287,
-  "scale": 0.3213249692437639,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.8459283926498739,
+  "close": false
 }

@@ -84,4 +84,33 @@ $$W_{A\rightarrow B}(\vec{F}) = \vec{F} \cdot \vec{AB}$$
 2. $E_c = \frac{1}{2}mv^2=\frac{1}{2}m\vec{v}\cdot\vec{v}$
 
 #propriété **Produit scalaire et angle :** $\vec{a}\cdot\vec{b} = a\times b\times\cos(\widehat{\vec{a};\vec{b}})$
-''
+
+# Produit vectoriel de deux vecteurs :
+#définition On appelle **produit vectoriel** de deux vecteurs $\vec{a}$ et $\vec{b}$ le vecteur dont les composantes sont : $$\vec{a}\begin{pmatrix}a_x\\a_y\\a_z\end{pmatrix} + \vec{b}\begin{pmatrix}b_x\\b_y\\b_z\end{pmatrix} = \begin{pmatrix}a_yb_z-a_zb_y \\ a_zb_x-a_xb_z\\a_xb_y-a_yb_x\end{pmatrix}$$
+## Propriétés :
+#propriété Le produit vectoriel n'est **pas** commutatif ! $\vec{a} \land \vec{b} = -\vec{b} \land \vec{a}$
+#propriété Distributivité : $\vec{a} \land (\vec{b}+\vec{c}) = \vec{a}\land\vec{b}+\vec{a}\land\vec{c}$
+#propriété $\vec{a}\land\vec{b}=\vec{0}$ si $\left\{\begin{aligned}\vec{a}//\vec{b} \\\vec{a}=0 \\\vec{b}=0\end{aligned}\right.$
+#propriété Produit vectoriel et angle : $\vec{a} \land \vec{b} = a \times b \times |sin(\vec{a};\vec{b})|$
+
+## Exemple d'utilisation :
+1. Si on a une force $\vec{F}$ appliquée sur un point $M$ d'un solide, on parle de $\vec{\mathcal{M}}$ (moment) de la force par rapport à une origine $O$ tq $\vec{\mathcal{M}} = \vec{OM} \land \vec{F}$.
+2. Forces de Lorentz :
+	![[IMG_20240918_153535.jpg]]
+	$\vec{F_\mathcal{L}} = q(\vec{E}+\vec{v}\land\vec{B})$
+
+# Rappels de trigonométrie :
+![[th.png]]
+$\theta$ | 0 | $\frac{\pi}{6}$ | $\frac{\pi}{4}$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$
+--- | --- | --- | --- | --- | ---
+$\sin\theta$ | 0 | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$
+$\cos\theta$ | 1 | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$
+$\tan\theta$ | 0 | $\frac{\sqrt{3}}{3}$ | 1 | $\sqrt{3}$ | $\pm\infty$
+
+$\cos^2\theta+\sin^2\theta = 1$
+
+**Formules d'addition :**
+- $\sin a+b=\sin a\cos b+\sin b\cos a$
+- $\sin a-b = \sin a\cos b - \sin b\cos a$
+- $\cos a+b = \cos a+\cos b - \sin a \sin b$
+- $\cos a-b=\cos a \cos b + \sin a \sin b$

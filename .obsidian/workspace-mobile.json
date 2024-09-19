@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9ef83b4ba5550275",
+        "id": "19ae139a3b35b8d3",
         "type": "tabs",
         "children": [
           {
-            "id": "87d86832f26e414f",
+            "id": "f3e98f2f0fbf314e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
+                "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d72e8fe793ef8c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#remarque",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
+            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
+            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md"
+            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md"
           }
         }
       },
@@ -142,8 +154,27 @@
   },
   "active": "5bf1e6c7f51bb769",
   "lastOpenFiles": [
-    "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+    "Assets/th.png",
     "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
+    "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+    "Assets/IMG_20240918_153535.jpg",
+    "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
+    "Maths/Générales/00 - Extra/00_01 - Introduction.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_02 Nombres rationnels et fractions.md",
+    "Informatique/Intro/01 - Introduction/05-09-2024.md",
+    "Informatique/Intro/Index.md",
+    "Phénomènes ondulatoires/01 - Vibration dans le temps/01_00 Chapitre 1 - Vibration dans le temps.md",
+    "Phénomènes ondulatoires/01 - Vibration dans le temps/01_01 -.md",
+    "README.md",
+    "/Phénomènes ondulatoires/Index.md",
+    "/README.md",
+    "/Force et statique/Index.md",
+    "Phénomènes ondulatoires/03 - Superposition des ondes/03_00 Chapitre 3 - Superposition des ondes.md",
+    "Phénomènes ondulatoires/02 - Propagation et formalisme/02_00 Chapitre 2 - Propagation et formalisme.md",
+    "/Phénomènes ondulatoires/03 - Superposition des ondes/03_00 Chapitre 3 - Superposition des ondes.md",
+    "/Phénomènes ondulatoires/02 - Propagation et formalisme/02_00 Chapitre 2 - Propagation et formalisme.md",
+    "/Phénomènes ondulatoires/01 - Vibration dans le temps/01_00 Chapitre 1 - Vibration dans le temps.md",
     "Assets/IMG_20240912_154053.jpg",
     "Assets",
     "Assets/IMG_20240912_151917.jpg",
@@ -151,34 +182,17 @@
     "Force et statique/00 - Extra/00_01 - Introduction.md",
     "Force et statique/01 - Notions préliminaires",
     "Informatique/Intro/00 - Extra/00_01 - Introduction.md",
-    "Maths/Générales/00 - Extra/00_01 - Introduction.md",
     "Index général.md",
     "Force et statique/00 - Extra",
-    "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
     "Force et statique",
     "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
     "Méthodologie/00 - Extra/00_01 - Introduction.md",
-    "Méthodologie/02 - Motivation et méthodes d'apprentissage/02_01 - Motivation et méthodes d'apprentissage.md",
-    "Phénomènes ondulatoires/02 - Propagation et formalisme/02_00 - Propagation et formalisme.md",
-    "Informatique/Intro/01 - unknown/05-09-2024.md",
-    "Phénomènes ondulatoires/03 - Superposition des ondes/03_00 - Superposition des ondes.md",
-    "Phénomènes ondulatoires/Sans titre.md",
     "Phénomènes ondulatoires/03 - Superposition des ondes",
-    "Phénomènes ondulatoires/01 - Vibration dans le temps/01_00 - Vibration dans le temps.md",
     "Phénomènes ondulatoires/02 - Propagation et formalisme",
-    "Phénomènes ondulatoires/01 - Vibration dans le temps/01_01 -.md",
-    "Phénomènes ondulatoires/00 - Extra/00_01 - Introduction.md",
     "Phénomènes ondulatoires/01 - Vibration dans le temps",
-    "Phénomènes ondulatoires/Index.md",
     "Phénomènes ondulatoires/00 - Extra",
     "Phénomènes ondulatoires",
-    "Méthodologie/Index.md",
     "Méthodologie/02 - Motivation et méthodes d'apprentissage/02_01 - Motivation et méthodes d'apprentissage",
-    "Maths/Générales/01 - Les ensembles de nombres/01_02 Nombres rationnels et fractions.md",
-    "Maths/Générales/Index.md",
-    "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
-    "/Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
-    "/Informatique/Intro/01 - unknown/05-09-2024.md",
     "Sans titre.canvas"
   ]
 }

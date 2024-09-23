@@ -101,15 +101,15 @@ $$W_{A\rightarrow B}(\vec{F}) = \vec{F} \cdot \vec{AB}$$
 
 # Rappels de trigonométrie :
 ![[th.png]]
-$\theta$ | 0 | $\frac{\pi}{6}$ | $\frac{\pi}{4}$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$
---- | --- | --- | --- | --- | ---
-$\sin\theta$ | 0 | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$
-$\cos\theta$ | 1 | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$
-$\tan\theta$ | 0 | $\frac{\sqrt{3}}{3}$ | 1 | $\sqrt{3}$ | $\pm\infty$
 
+| $\theta$     | $0$ | $\frac{\pi}{6}$      | $\frac{\pi}{4}$      | $\frac{\pi}{3}$      | $\frac{\pi}{2}$ |
+| ------------ | --- | -------------------- | -------------------- | -------------------- | --------------- |
+| $\sin\theta$ | $0$ | $\frac{1}{2}$        | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ | $1$             |
+| $\cos\theta$ | $1$ | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$        | $0$             |
+| $\tan\theta$ | $0$ | $\frac{\sqrt{3}}{3}$ | $1$                  | $\sqrt{3}$           | $\pm\infty$     |
 $\cos^2\theta+\sin^2\theta = 1$
 
-**Formules d'addition :**
+ ### **Formules d'addition :**
 - $\sin a+b=\sin a\cos b+\sin b\cos a$
 - $\sin a-b = \sin a\cos b - \sin b\cos a$
 - $\cos a+b = \cos a+\cos b - \sin a \sin b$

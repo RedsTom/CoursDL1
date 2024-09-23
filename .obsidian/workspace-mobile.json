@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+                "file": "Informatique/Intro/01 - Introduction/05-09-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "531c5ac5e8828754",
@@ -97,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+            "file": "Informatique/Intro/01 - Introduction/05-09-2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+            "file": "Informatique/Intro/01 - Introduction/05-09-2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md"
+            "file": "Informatique/Intro/01 - Introduction/05-09-2024.md"
           }
         }
       },
@@ -139,7 +140,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,11 +153,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bf1e6c7f51bb769",
+  "active": "f3e98f2f0fbf314e",
   "lastOpenFiles": [
-    "Assets/th.png",
     "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
+    "Maths/Générales/Index.md",
     "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+    "Assets/th.png",
     "Assets/IMG_20240918_153535.jpg",
     "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
     "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",

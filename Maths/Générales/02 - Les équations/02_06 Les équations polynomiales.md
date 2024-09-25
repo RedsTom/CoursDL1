@@ -1,0 +1,1 @@
+# 2.6 Les équations polynomiales

@@ -161,4 +161,4 @@ Sachant tout cela, comment optimiser notre mémoire ?
 ## Méthodes pour être efficace :
 => Renforcer les traces mnésiques de la séance précédente 
 On renforce à chaque fois qu'on essaye de se souvenir de ce q'on a fait la dernière fois
-$\hookrightarrow$ Dès qu'on attend, on essaye de se souvenir ce qu'on a fait 
+$\hookrightarrow$ Dès qu'on attend, on essaye de se souvenir ce qu'on a fait

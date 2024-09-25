@@ -1,0 +1,1 @@
+# 2.5 Les équations $x^n = a$

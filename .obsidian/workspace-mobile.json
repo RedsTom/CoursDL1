@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatique/Intro/01 - Introduction/05-09-2024.md",
+                "file": "Maths/Générales/02 - Les équations/02_02 Les équations du premier degré.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7638f321f653c0be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
+                "file": "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Informatique/Intro/01 - Introduction/05-09-2024.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Informatique/Intro/01 - Introduction/05-09-2024.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Informatique/Intro/01 - Introduction/05-09-2024.md"
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md"
           }
         }
       },
@@ -140,7 +153,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,48 +166,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3e98f2f0fbf314e",
+  "active": "5bf1e6c7f51bb769",
   "lastOpenFiles": [
-    "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
+    "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md",
+    "Maths/Générales/02 - Les équations/02_02 Les équations du premier degré.md",
+    "Maths/Générales/02 - Les équations/02_03 Résolution de systèmes linéaires.md",
+    "Maths/Générales/02 - Les équations/02_04 Equation d'une droite et d'un cercle dans le plan.md",
+    "Maths/Générales/02 - Les équations/02_05 Les équations xn = a.md",
+    "Maths/Générales/02 - Les équations/02_06 Les équations polynomiales.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
+    "Maths/Générales/02 - Les équations/02_00 Chapitre 2 - Les équations.md",
     "Maths/Générales/Index.md",
+    "Méthodologie/Index.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_04 Vocabulaire des ensembles de nombres réels.md",
+    "Maths/Générales/02 - Les équations",
+    "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
     "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+    "Méthodologie/03 - Les factuers influençant les apprentissages et les performances cognitives/03_01 - Les facteurs influençant les apprentissages et les performances cognitives.md",
+    "Méthodologie/02 - Motivation et méthodes d'apprentissage/02_01 - Motivation et méthodes d'apprentissage.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
+    "Méthodologie/03 - Les factuers influençant les apprentissages et les performances cognitives",
+    "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
+    "Informatique/Intro/01 - Introduction/05-09-2024.md",
     "Assets/th.png",
     "Assets/IMG_20240918_153535.jpg",
-    "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
-    "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
     "Maths/Générales/00 - Extra/00_01 - Introduction.md",
     "Maths/Générales/01 - Les ensembles de nombres/01_02 Nombres rationnels et fractions.md",
-    "Informatique/Intro/01 - Introduction/05-09-2024.md",
     "Informatique/Intro/Index.md",
     "Phénomènes ondulatoires/01 - Vibration dans le temps/01_00 Chapitre 1 - Vibration dans le temps.md",
     "Phénomènes ondulatoires/01 - Vibration dans le temps/01_01 -.md",
     "README.md",
     "/Phénomènes ondulatoires/Index.md",
     "/README.md",
-    "/Force et statique/Index.md",
-    "Phénomènes ondulatoires/03 - Superposition des ondes/03_00 Chapitre 3 - Superposition des ondes.md",
-    "Phénomènes ondulatoires/02 - Propagation et formalisme/02_00 Chapitre 2 - Propagation et formalisme.md",
-    "/Phénomènes ondulatoires/03 - Superposition des ondes/03_00 Chapitre 3 - Superposition des ondes.md",
-    "/Phénomènes ondulatoires/02 - Propagation et formalisme/02_00 Chapitre 2 - Propagation et formalisme.md",
-    "/Phénomènes ondulatoires/01 - Vibration dans le temps/01_00 Chapitre 1 - Vibration dans le temps.md",
     "Assets/IMG_20240912_154053.jpg",
     "Assets",
     "Assets/IMG_20240912_151917.jpg",
-    "Force et statique/Index.md",
-    "Force et statique/00 - Extra/00_01 - Introduction.md",
     "Force et statique/01 - Notions préliminaires",
-    "Informatique/Intro/00 - Extra/00_01 - Introduction.md",
-    "Index général.md",
     "Force et statique/00 - Extra",
     "Force et statique",
-    "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
-    "Méthodologie/00 - Extra/00_01 - Introduction.md",
     "Phénomènes ondulatoires/03 - Superposition des ondes",
     "Phénomènes ondulatoires/02 - Propagation et formalisme",
     "Phénomènes ondulatoires/01 - Vibration dans le temps",
     "Phénomènes ondulatoires/00 - Extra",
-    "Phénomènes ondulatoires",
-    "Méthodologie/02 - Motivation et méthodes d'apprentissage/02_01 - Motivation et méthodes d'apprentissage",
     "Sans titre.canvas"
   ]
 }

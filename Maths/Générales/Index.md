@@ -2,4 +2,5 @@
 	- [[Maths/Générales/00 - Extra/00_01 - Introduction|00_01 - Introduction]]
 - Chapitre 1 - Les ensembles de nombres :
 	- [[01_00 Chapitre 1 - Les ensembles de nombres|01_00 Chapitre 1 - Les ensembles de nombres]]   
-- 
+- Chapitre 2 - Les équations
+	- [[02_00 Chapitre 2 - Les équations]]

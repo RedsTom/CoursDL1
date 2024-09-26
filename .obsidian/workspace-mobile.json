@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md",
+                "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md",
+            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md",
+            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md"
+            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md"
           }
         }
       },
@@ -143,8 +143,9 @@
   },
   "active": "7638f321f653c0be",
   "lastOpenFiles": [
-    "Maths/Générales/02 - Les équations/02_02 Les équations du premier degré.md",
+    "Force et statique/00 - Extra/00_01 - Introduction.md",
     "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md",
+    "Maths/Générales/02 - Les équations/02_02 Les équations du premier degré.md",
     "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
     "Maths/Générales/02 - Les équations/02_03 Résolution de systèmes linéaires.md",
     "Maths/Générales/02 - Les équations/02_04 Equation d'une droite et d'un cercle dans le plan.md",
@@ -172,7 +173,6 @@
     "Phénomènes ondulatoires/01 - Vibration dans le temps/01_01 -.md",
     "README.md",
     "/Phénomènes ondulatoires/Index.md",
-    "/README.md",
     "Assets/IMG_20240912_154053.jpg",
     "Assets",
     "Assets/IMG_20240912_151917.jpg",

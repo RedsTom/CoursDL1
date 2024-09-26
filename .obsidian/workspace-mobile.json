@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3e98f2f0fbf314e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Générales/02 - Les équations/02_02 Les équations du premier degré.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7638f321f653c0be",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d72e8fe793ef8c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
+            "file": "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
+            "file": "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -140,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md"
+            "file": "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md"
           }
         }
       },
@@ -166,15 +141,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bf1e6c7f51bb769",
+  "active": "7638f321f653c0be",
   "lastOpenFiles": [
-    "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md",
     "Maths/Générales/02 - Les équations/02_02 Les équations du premier degré.md",
+    "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
     "Maths/Générales/02 - Les équations/02_03 Résolution de systèmes linéaires.md",
     "Maths/Générales/02 - Les équations/02_04 Equation d'une droite et d'un cercle dans le plan.md",
     "Maths/Générales/02 - Les équations/02_05 Les équations xn = a.md",
     "Maths/Générales/02 - Les équations/02_06 Les équations polynomiales.md",
-    "Maths/Générales/01 - Les ensembles de nombres/01_00 Chapitre 1 - Les ensembles de nombres.md",
     "Maths/Générales/02 - Les équations/02_00 Chapitre 2 - Les équations.md",
     "Maths/Générales/Index.md",
     "Méthodologie/Index.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+                "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md"
+            "file": "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md"
           }
         }
       },
@@ -143,6 +143,9 @@
   },
   "active": "7638f321f653c0be",
   "lastOpenFiles": [
+    "Maths/Générales/01 - Les ensembles de nombres/01_02 Nombres rationnels et fractions.md",
+    "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
+    "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
     "Force et statique/00 - Extra/00_01 - Introduction.md",
     "Maths/Générales/02 - Les équations/02_01 Vocabulaire pour la résolution d'équations et inéquations.md",
     "Maths/Générales/02 - Les équations/02_02 Les équations du premier degré.md",
@@ -157,17 +160,14 @@
     "Maths/Générales/01 - Les ensembles de nombres/01_04 Vocabulaire des ensembles de nombres réels.md",
     "Maths/Générales/02 - Les équations",
     "Maths/Générales/01 - Les ensembles de nombres/01_03 Nombres réels et inégalités.md",
-    "Force et statique/01 - Notions préliminaires/01_00 Chapitre 1 - Notions préliminaires.md",
     "Méthodologie/03 - Les factuers influençant les apprentissages et les performances cognitives/03_01 - Les facteurs influençant les apprentissages et les performances cognitives.md",
     "Méthodologie/02 - Motivation et méthodes d'apprentissage/02_01 - Motivation et méthodes d'apprentissage.md",
-    "Maths/Générales/01 - Les ensembles de nombres/01_01 Nombres entiers.md",
     "Méthodologie/03 - Les factuers influençant les apprentissages et les performances cognitives",
     "Méthodologie/01 - Mémoire et apprentissage/01_01 - Mémoire et apprentissage.md",
     "Informatique/Intro/01 - Introduction/05-09-2024.md",
     "Assets/th.png",
     "Assets/IMG_20240918_153535.jpg",
     "Maths/Générales/00 - Extra/00_01 - Introduction.md",
-    "Maths/Générales/01 - Les ensembles de nombres/01_02 Nombres rationnels et fractions.md",
     "Informatique/Intro/Index.md",
     "Phénomènes ondulatoires/01 - Vibration dans le temps/01_00 Chapitre 1 - Vibration dans le temps.md",
     "Phénomènes ondulatoires/01 - Vibration dans le temps/01_01 -.md",
